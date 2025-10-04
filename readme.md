@@ -76,7 +76,3 @@ Program mencakup pengujian untuk:
 - Verifikasi properti softmax
 - Validasi causal masking
 - Uji integrasi model lengkap
-
-## Lisensi
-
-Tugas akademik - Universitas Gadjah Mada
